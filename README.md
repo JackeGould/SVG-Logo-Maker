@@ -35,9 +35,3 @@ The following image demonstrates the web application's appearance and functional
 
 
 ## Deployment
-
-
-
-
-
-The package.json file is used by npm to learn about your node.js project. Use npm init to generate package.json files for you!

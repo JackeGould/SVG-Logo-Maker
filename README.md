@@ -32,6 +32,13 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 The following image demonstrates the web application's appearance and functionality:
 
-
+![](./lib/image4.png)
+![](./lib/image1.png)
+![](./lib/image2.png)
+![](./lib/image3.png)
 
 ## Deployment
+
+https://github.com/JackeGould/SVG-Logo-Maker
+
+https://drive.google.com/file/d/1skmCjV6rWIapZgjoW6w7pJzkyqSL4sfM/view
